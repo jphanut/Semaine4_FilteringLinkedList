@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645446377 source:/home/margauxhanut/ProjectC/Semaine4_FilteringLinkedList/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
